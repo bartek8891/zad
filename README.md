@@ -4,9 +4,7 @@
 ## Opis
 
 Zadanie polega na stworzeniu aplikacji do obsługi zadań. Aplikacja musi
-być wykonana w języku PHP >=5.6. Projekt powinien zostać umieszczony w 
-serwisie Gitlab - https://gitlab.com/users/sign_in
-
+być wykonana w języku PHP >=5.6. 
 ## Funkcjonalności
 
 - Logowanie użytkowników
