@@ -1,14 +1,7 @@
+
 {
     "name": "zadanie1/netis",
-    "description": "zadanie",
-    "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
-    }
-}
-{
-    "name": "zadanie1/netis",
-    "description": "Yii 2 Basic Project Template",
+    "description": "zad1",
     "keywords": ["yii2", "framework", "basic", "project template"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
